@@ -1,0 +1,11 @@
+E:\Random\SantaGame\SantaGame\bin\Debug\SantaGame.exe.config
+E:\Random\SantaGame\SantaGame\bin\Debug\SantaGame.exe
+E:\Random\SantaGame\SantaGame\bin\Debug\SantaGame.pdb
+E:\Random\SantaGame\SantaGame\obj\Debug\SantaGame.csproj.AssemblyReference.cache
+E:\Random\SantaGame\SantaGame\obj\Debug\SantaGame.csproj.SuggestedBindingRedirects.cache
+E:\Random\SantaGame\SantaGame\obj\Debug\SantaGame.Form1.resources
+E:\Random\SantaGame\SantaGame\obj\Debug\SantaGame.Properties.Resources.resources
+E:\Random\SantaGame\SantaGame\obj\Debug\SantaGame.csproj.GenerateResource.cache
+E:\Random\SantaGame\SantaGame\obj\Debug\SantaGame.csproj.CoreCompileInputs.cache
+E:\Random\SantaGame\SantaGame\obj\Debug\SantaGame.exe
+E:\Random\SantaGame\SantaGame\obj\Debug\SantaGame.pdb
